@@ -10,6 +10,7 @@ Thanks to the rise in information technologies, it is easy for a user of the sys
 In this project, you will use data provided by Motivate, a bike share system provider for many major cities in the United States, to uncover bike share usage patterns. You will compare the system usage between three large cities: Chicago, New York City, and Washington, DC.
 
 Statistics Computed
+
 You will learn about bike share use in Chicago, New York City, and Washington by computing a variety of descriptive statistics. In this project, you'll write code to provide the following information:
 
 #1 Popular times of travel (i.e., occurs most often in the start time)
