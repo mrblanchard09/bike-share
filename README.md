@@ -3,11 +3,11 @@ This was a Udacity Data Analyst class project where I developed a Python script 
 
 Project Details
 
-The project data was provided by https://www.motivateco.com/ for three large cities: Chicago, New York City, and Washington, DC.  The raw datasets can be accessed on the following site, however Udacity performed some data wrangling and the resulting  clean data files where what I used and have been uploaded into this repository.
+The project data was provided by https://www.motivateco.com/ for three large cities: Chicago, New York City, and Washington, DC.  The raw datasets can be accessed on the following site, however Udacity performed some data wrangling and the resulting  clean data files where what I used and have been uploaded into this repository:
 
-https://www.capitalbikeshare.com/system-data
-https://www.citibikenyc.com/system-data
-https://www.divvybikes.com/system-data
+a) https://www.capitalbikeshare.com/system-data
+b) https://www.citibikenyc.com/system-data
+c) https://www.divvybikes.com/system-data
 
 The bikeshare.py file is a Python script that I developed to create an interactive experience in the terminal that answers questions about the dataset. The experience is interactive because depending on a user's input, the answers to the questions on the previous page will change! There are four questions that will change the answers:
 
