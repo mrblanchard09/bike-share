@@ -3,7 +3,7 @@ This was a Udacity Data Analyst class project where I developed a Python script 
 
 Project Details
 
-The project data was provided by https://www.motivateco.com/ for three large cities: Chicago, New York City, and Washington, DC.  The raw datasets can be accessed on the following site, however Udacity performed some data wrangling and the resulting  clean data files where what I used and have been uploaded into this repository:
+The project data was provided by https://www.motivateco.com/ for three large cities: Chicago, New York City, and Washington, DC.  The raw datasets can be accessed on the following sites, however Udacity performed some data wrangling and the resulting  clean data files that I uploaded into this repository is what I used:
 
 a) https://www.capitalbikeshare.com/system-data
 
